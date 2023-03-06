@@ -18,6 +18,7 @@ const Contact = () => {
                     <label>Message</label>
                     <input type="text" required placeholder='Tell us about your query?'/>
                 </div>
+                <button>Send</button>
             </form>
         </main>
     </div>
