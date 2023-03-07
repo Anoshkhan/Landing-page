@@ -28,7 +28,7 @@ const Home = () => {
     </div>
 
     <div className='home4' id='brands'>
-        <div >
+        <div className='brands'>
           <h1>Brands</h1>
           <article>
             <div style={{

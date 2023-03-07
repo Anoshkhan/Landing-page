@@ -1,0 +1,66 @@
+@media screen and (max-width: 768px) {
+   .home{
+    border-radius: 0px 0px 120px 120px;
+    >main h1{
+      font-size: 5rem;
+    }
+    &::before{
+      border-radius: 0px 0px 120px 120px;
+    }
+   }
+   .home2{
+    display: flex;
+    flex-direction: column;
+    > img{
+      margin-top: 100px;
+    }
+    > div{
+      width: 90%;
+      padding: 1rem;
+    }
+  }
+   .home3{
+     height: 100vh;
+     margin-top: -10px;
+     > div{
+        height: 90vh;
+        width: 70%;
+        padding: 1rem;
+        > p{
+            font-size: 16px;
+            padding: 2rem;
+        }
+     }
+    
+   }
+}
+@media screen and (max-width: 500px) {
+    .home{
+      border-radius: 0px 0px 100px 100px;
+      >main h1{
+      font-size: 4rem;
+     }
+      &::before{
+      border-radius: 0px 0px 100px 100px;
+    }
+    }
+    .home2 > img{
+        margin-top: 150px;
+    }
+    .home3{
+      height: 120vh;
+      > div{
+         height: 110vh;
+         width: 75%;
+         > p{
+             font-size: 15px;
+         }
+      }
+      .contact > main{
+        height: 100vh;
+        width: 100%;
+      }
+     
+    }
+   
+ }
