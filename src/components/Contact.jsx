@@ -8,15 +8,15 @@ const Contact = () => {
             <form>
                 <div>
                     <label>Name</label>
-                    <input type="text" required placeholder='enter your name'/>
+                    <input type="text" required placeholder='Full Name'/>
                 </div>
                 <div>
                     <label>Email</label>
                     <input type="email" required placeholder='abc@xyz.com'/>
                 </div>
                 <div>
-                    <label>Message</label>
-                    <input type="text" required placeholder='Tell us about your query?'/>
+                    <label>Query</label>
+                    <input type="text" required placeholder='Your Message?'/>
                 </div>
                 <button>Send</button>
             </form>

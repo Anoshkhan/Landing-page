@@ -1,3 +1,4 @@
+
 @media screen and (max-width: 768px) {
    .home{
     border-radius: 0px 0px 120px 120px;
@@ -33,8 +34,43 @@
      }
     
    }
+   .home4 {
+    height: 110vh;
+   > div{
+      width:80%;
+      height: 80vh;
+   }
+  }
+  .contact{
+    height: 100vh;
+    width: 100%;
+    > main{
+      height: 80vh;
+      width: 80%;
+      padding: 1rem;
+      h1{
+        text-align: center;
+      }
+      > form{
+        margin: 3rem 1rem;
+        > div{
+          height: 1.5rem;
+          width: 100%;
+          > label{
+            font-size: 1rem;
+            width: 20%;
+          }
+          > input{
+            font-size: 13px;
+            padding: 1rem 2rem 1rem 2rem;
+            width: 80%;
+          }
+        }
+      }
+    }
+  }
 }
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 520px) {
     .home{
       border-radius: 0px 0px 100px 100px;
       >main h1{
@@ -56,11 +92,66 @@
              font-size: 15px;
          }
       }
-      .contact > main{
-        height: 100vh;
-        width: 100%;
-      }
      
     }
-   
+    .home4 {
+      height: 90vh;
+     > div{
+      height: 80vh;
+     > article{
+      margin: 1.5rem 0px;
+      > div{
+      width: 7rem;
+      height: 7rem;
+      svg{
+        font-size: 2.5rem;
+      }
+      p{
+        font-size: 1rem;
+      }
+    }
+  }
+     }
+    }
+    .contact{
+      height: 100vh;
+      width: 100%;
+      > main{
+        height: 70vh;
+        width: 90%;
+        padding: 1rem;
+        border-radius: 5px;
+        > form{
+          margin: 3rem 1rem;
+          > div{
+            height: 1.5rem;
+            width: 100%;
+            > label{
+              font-size: 0.8rem;
+              width: 20%;
+            }
+            > input{
+              font-size: 12px;
+              padding: 1rem 2rem 1rem 2rem;
+              width: 80%;
+            }
+          }
+        }
+      }
+    }
+    .footer{ 
+    > div{
+
+     > h1{
+      font-size: 1.8rem;
+     }
+     > p{
+      margin: 12px 0px;
+      }
+    
+    > h5{
+      font-size: 1.5rem;
+    }
+  }
+  }
  }
