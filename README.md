@@ -18,7 +18,8 @@ Landing page based on react.
 ![mobile](https://user-images.githubusercontent.com/84200302/223740440-e3d3ea8a-c8f0-4564-b4d3-14fb5404ef30.png)
 ![mobile (1)](https://user-images.githubusercontent.com/84200302/223740503-76e98c4a-12fa-4fef-b0e9-cdc33d1b656b.png)
 ![mobile (2)](https://user-images.githubusercontent.com/84200302/223740537-3ed05c74-013d-4f8a-9ead-27cc95a1a8b7.png)
-![mobile (3)](https://user-images.githubusercontent.com/84200302/223740584-56943b3e-51cb-46c4-ab45-a4861dc7b5a1.png)
+
+![mobile (4)](https://user-images.githubusercontent.com/84200302/224040736-a1c24c5d-f65b-43d7-a7a2-ce5cfe914404.png)
 
 
 
