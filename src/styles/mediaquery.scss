@@ -153,18 +153,13 @@
         }
       }
     }
-    .footer{ 
+     .footer{ 
+      height: 50vh;
+      grid-template-columns: 1fr;
     > div{
-
-     > h1{
-      font-size: 1.8rem;
-     }
-     > p{
-      margin: 12px 0px;
-      }
-    
-    > h5{
-      font-size: 1.5rem;
+        text-align: center;
+    > p {
+      margin: 10px 0px;
     }
   }
   }
