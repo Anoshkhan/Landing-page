@@ -1,5 +1,7 @@
 # Techist
 Landing page based on react.
+***Visit website*****
+https://techistreactpage.netlify.app/
 ## Technologies used
 * React
 * React routers
